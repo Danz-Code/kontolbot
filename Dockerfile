@@ -14,4 +14,4 @@ RUN npm install
 
 COPY . .
 
-CMD ["node", "."]
+CMD ["node", "menutes14.js"]
